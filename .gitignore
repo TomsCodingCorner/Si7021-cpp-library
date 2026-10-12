@@ -1,0 +1,18 @@
+# Locally downloaded dependencies and generated firmware/test output
+.deps/
+.build/
+*.o
+*.elf
+*.hex
+*.map
+*.lst
+*.d
+*.exe
+# Local editor state, logs and backups
+.vscode/
+.idea/
+*.log
+*.bak
+*~
+.DS_Store
+Thumbs.db
