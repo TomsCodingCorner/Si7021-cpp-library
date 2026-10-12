@@ -12,10 +12,7 @@ writing the Si7021 library and a clothing-advice application. They also
 describe switching from a BME280 idea to the Si7021; BME280 support is not
 implemented here.
 
-The surviving material points to **July 2023**: the original README says
-11 July 2023, and the presentation and poster have creation metadata dated
-10 July 2023. These indicate when the material was prepared, rather than
-proving when development began. A 2022 date is not established. The current
+This is a project dated closed on **July 2023** and prepared for showcasing on **October 2026**. The current
 repository's 2026 import commit does not establish the original timeline.
 
 ## What is included
